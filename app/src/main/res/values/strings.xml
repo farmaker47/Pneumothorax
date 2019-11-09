@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pneumothorax</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="appTitle">Wheels</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="settings">Settings</string>
+    <string name="speed">\t\tSpeed</string>
+    <string name="quality">Quality\t\t</string>
+    <string name="screenshotPermission">App needs permission to  save screenshot!</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="rotateIfNecessary">Rotate if necessary</string>
+    <string name="shareImage">Share Image</string>
+    <string name="sharePhoto">Share photo!</string>
+    <string name="mainShareApp">Download from below link and find info of greek, current retail prices, ICD-10\'s and more: http://play.google.com/store/apps/details?id=com.george</string>
+</resources>

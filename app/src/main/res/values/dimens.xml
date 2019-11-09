@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_sheet_corner_radius">15dp</dimen>
+    <dimen name="bottom_sheet_top_padding">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_margin2">24dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="frameLayoutWidth">480dp</dimen>
+    <dimen name="frameLayoutHeight">640dp</dimen>
+
+    <dimen name="standard_45">45dp</dimen>
+    <dimen name="standard_55">72dp</dimen>
+</resources>
