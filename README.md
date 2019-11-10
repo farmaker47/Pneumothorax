@@ -18,4 +18,4 @@ Expected result from deeplab model
 After training with the provided [Kaggle dataset](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation) the outcome of the model is:
 
 
-![](Picture3.JPG)
+![](Picture4.JPG)
