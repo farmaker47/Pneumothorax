@@ -2,4 +2,4 @@
 ### Overview
 Android Medical Diagnosis App Demo
 
-![](pneumo.gif)
+                       ![](pneumo.gif)
