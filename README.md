@@ -11,5 +11,11 @@ This project was created using Google's deep learning [Deeplab](https://github.c
 
 ![](Picture1.jpg)
 
-
+Expected result from deeplab model
 ![](Picture2.jpg)
+
+
+After training with the provided [Kaggle dataset](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation) the outcome of the model is:
+
+
+![](Picture3.JPG)
